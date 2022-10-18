@@ -16,6 +16,7 @@ public class Restaurant {
     private List<Dish> dishList = new ArrayList<>();
 
     public Restaurant() {
+
     }
 
     public Restaurant(String name) {
